@@ -1,0 +1,12 @@
+{
+    "headers": [
+      {
+        "source": "/images/:all*",
+        "headers": [
+          { "key": "Content-Type", "value": "image/png" },
+          { "key": "Content-Type", "value": "image/jpeg" }
+        ]
+      }
+    ]
+  }
+  
